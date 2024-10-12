@@ -9,6 +9,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 SELECT * FROM table_name;
 ```
 
-[x] Bicampeão do Mundo FIFA
-[x] Heptacampeão Brasileiro
-[x] Tricampeão da Copa do Brasil
+- [x] Bicampeão do Mundo FIFA
+- [x] Heptacampeão Brasileiro
+- [x] Tricampeão da Copa do Brasil
